@@ -36,4 +36,4 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/bricolaje-app/homebrew-
 ## Documentation
 
 The full documentation is available at
-[bricolaje-app.github.io/docs](https://bricolaje-app.github.io/docs) (en/ja).
+[here](https://docs.bricolaje.dev) (en/ja).
