@@ -12,7 +12,7 @@ It combines with `bj` command-line tool to provide  command suggestions and hist
 ### *Bricolaje* Desktop
 
 The latest release can be downloaded from
-[Releases](https://github.com/bricolaje-app/bricolaje/releases/latest/download/)
+[Releases](https://github.com/bricolaje-app/bricolaje/releases/latest)
 (MacOS only).
 
 ### `bj` CLI
